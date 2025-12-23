@@ -1,3 +1,4 @@
+mermaid
 classDiagram
     %% Styling Definition
     classDef client fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
